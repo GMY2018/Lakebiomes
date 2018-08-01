@@ -3,4 +3,4 @@ Clustering the monthly lake surface water temperature time series for 732 lakes 
 
 By Ruth
 
-Type runGitHub(repo='Lakebiomes', username='GMY2018) in R to run the app
+Type runGitHub(repo='Lakebiomes', username='GMY2018') in R to run the app
